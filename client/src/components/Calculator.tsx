@@ -67,9 +67,9 @@ export default function Calculator() {
       <div className="max-w-7xl mx-auto">
         {/* Header */}
         <div className="text-center mb-12">
-          <h1 className="text-4xl font-bold text-foreground mb-2">
+          <h2 className="text-4xl font-bold text-foreground mb-2">
             ☕ Starbucks Calorie Calculator
-          </h1>
+          </h2>
           <p className="text-muted-foreground text-lg">
             Make informed choices about your favorite Starbucks drinks
           </p>
