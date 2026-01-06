@@ -9,7 +9,7 @@ export default function Header() {
             <Coffee className="h-6 w-6 text-primary" />
           </div>
           <div>
-            <h1 className="text-2xl font-bold">Starbucks Calculator</h1>
+            <h1 className="text-2xl font-bold">Starbucks Calorie Calculator</h1>
             <p className="text-sm opacity-90">Make informed choices about your drink</p>
           </div>
         </div>
