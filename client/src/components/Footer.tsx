@@ -6,7 +6,7 @@ export default function Footer() {
           <div>
             <h3 className="font-bold text-foreground mb-3">About</h3>
             <p className="text-sm text-muted-foreground leading-relaxed">
-              A free, open-source Starbucks calorie calculator to help you make informed nutritional choices.
+              A free Starbucks calorie & nutrition calculator to help you make informed nutritional choices.
             </p>
           </div>
           <div>
@@ -21,12 +21,12 @@ export default function Footer() {
           <div>
             <h3 className="font-bold text-foreground mb-3">Disclaimer</h3>
             <p className="text-sm text-muted-foreground leading-relaxed">
-              This calculator is independent and not affiliated with Starbucks Corporation. Nutrition data is approximate and may vary.
+              This Starbucks calorie & nutrition calculator calculator is independent and not affiliated with Starbucks Corporation. Nutrition data is approximate and may vary.
             </p>
           </div>
         </div>
         <div className="border-t border-border pt-6 text-center text-sm text-muted-foreground">
-          <p>© 2025 Starbucks Calorie Calculator. Built with care.</p>
+          <p>© 2026 <a href="https://www.starbuckscaloriecalculator.co/"></a>Starbucks Calorie Calculator</a>. Built with care.</p>
         </div>
       </div>
     </footer>
